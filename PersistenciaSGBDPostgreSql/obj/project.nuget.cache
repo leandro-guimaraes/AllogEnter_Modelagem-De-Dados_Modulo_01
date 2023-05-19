@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eXPJiw51ZJmWxhA4jmi8QLGUIpCt/k5NPEq6rcE4wXcTlR92CsyyGks66TSkUQH6KHspeYpQx6ZwC4lgbM9OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

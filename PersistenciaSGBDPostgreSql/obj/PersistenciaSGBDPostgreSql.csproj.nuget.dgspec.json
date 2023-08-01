@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj": {}
+    "C:\\Users\\AMD\\Desktop\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj": {
+    "C:\\Users\\AMD\\Desktop\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj",
+        "projectUniqueName": "C:\\Users\\AMD\\Desktop\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj",
         "projectName": "PersistenciaSGBDPostgreSql",
-        "projectPath": "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj",
+        "projectPath": "C:\\Users\\AMD\\Desktop\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\PersistenciaSGBDPostgreSql.csproj",
         "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMD\\Source\\Repos\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\obj\\",
+        "outputPath": "C:\\Users\\AMD\\Desktop\\AllogEnter_Modelagem-De-Dados_Modulo_01\\PersistenciaSGBDPostgreSql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Npgsql": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.4, )"
             }

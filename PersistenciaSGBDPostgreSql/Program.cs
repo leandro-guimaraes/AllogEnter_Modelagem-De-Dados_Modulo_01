@@ -1,8 +1,4 @@
 ﻿using Npgsql;
-using System;
-using System.Collections.Generic;
-using System.Data;
-
 namespace exercicio_sgbdPstgree
 {
     public class Program
@@ -25,7 +21,7 @@ namespace exercicio_sgbdPstgree
             Console.WriteLine(@" |''|  (__________)-.|''||______:|");
             Console.WriteLine(@" `""`_.............._\""`______");
             Console.WriteLine(@"    /:::::::::::'':::\`;'-.-.  `\");
-            Console.WriteLine(@"   /::=========.:.-::"\ \ \--\   \");
+            Console.WriteLine(@"   /::=========.:.-:: \ \ \--\   \");
             Console.WriteLine(@"   \`""""""""""""""""`/  \ \__)   \");
             Console.WriteLine(@"    `""""""""""""""""`    '========'");
 
@@ -60,7 +56,7 @@ namespace exercicio_sgbdPstgree
 
     public class PostgresHelper
     {
-        private readonly string connectionString = "Host=localhost;Port=5432;Database=database_name;Username=username;Password=password";
+        private readonly string connectionString = "Host=localhost;Port=5432;Database=allog_clientes;Username=postgres;Password=123456";
 
         public void ListarTodosClientes()
         {
